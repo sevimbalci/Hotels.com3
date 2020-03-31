@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121243" started-at="2020-03-23T06:24:28Z" finished-at="2020-03-23T06:26:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121243" started-at="2020-03-23T06:24:28Z" finished-at="2020-03-23T06:26:30Z">
+      <class name="com.hotels.com.tests.SecondPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="setUp" is-config="true" duration-ms="16455" started-at="2020-03-23T06:24:28Z" finished-at="2020-03-23T06:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectHotelCloserThanTenMile()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="selectHotelCloserThanTenMile" duration-ms="15476" started-at="2020-03-23T06:24:45Z" finished-at="2020-03-23T06:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHotelCloserThanTenMile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="tearDown" is-config="true" duration-ms="107" started-at="2020-03-23T06:25:00Z" finished-at="2020-03-23T06:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="setUp" is-config="true" duration-ms="15626" started-at="2020-03-23T06:25:01Z" finished-at="2020-03-23T06:25:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySecondPageTitle()[pri:1, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="verifySecondPageTitle" duration-ms="5044" started-at="2020-03-23T06:25:16Z" finished-at="2020-03-23T06:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySecondPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="tearDown" is-config="true" duration-ms="109" started-at="2020-03-23T06:25:21Z" finished-at="2020-03-23T06:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="setUp" is-config="true" duration-ms="15721" started-at="2020-03-23T06:25:21Z" finished-at="2020-03-23T06:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fiveStarCloserThanTenMile()[pri:2, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="fiveStarCloserThanTenMile" duration-ms="7322" started-at="2020-03-23T06:25:37Z" finished-at="2020-03-23T06:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fiveStarCloserThanTenMile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="tearDown" is-config="true" duration-ms="106" started-at="2020-03-23T06:25:44Z" finished-at="2020-03-23T06:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="setUp" is-config="true" duration-ms="15038" started-at="2020-03-23T06:25:44Z" finished-at="2020-03-23T06:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fourStarCloserThanTenMiles()[pri:3, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="fourStarCloserThanTenMiles" duration-ms="7414" started-at="2020-03-23T06:26:00Z" finished-at="2020-03-23T06:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourStarCloserThanTenMiles -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="tearDown" is-config="true" duration-ms="106" started-at="2020-03-23T06:26:07Z" finished-at="2020-03-23T06:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="setUp" is-config="true" duration-ms="14973" started-at="2020-03-23T06:26:07Z" finished-at="2020-03-23T06:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="threeStarCloserThanTenMile()[pri:4, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="threeStarCloserThanTenMile" duration-ms="7466" started-at="2020-03-23T06:26:22Z" finished-at="2020-03-23T06:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threeStarCloserThanTenMile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hotels.com.tests.SecondPageTest@5d465e4b]" name="tearDown" is-config="true" duration-ms="106" started-at="2020-03-23T06:26:30Z" finished-at="2020-03-23T06:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hotels.com.tests.SecondPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
